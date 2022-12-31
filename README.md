@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<img src="./src/assets/logo-nlw-esports.svg" Alt="eSports logo" width="80" height="80">
+<img src="./src/assets/logo-nlw-esports.svg" Alt="eSports logo" width="100" height="100">
 
 <H3 align="center">Moveit</h3>
 
@@ -90,7 +90,7 @@ Run the application in localhost with
    
 It will look something like this:
 
-![](./images/usage.gif.gif)
+![](./images/usage.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,7 +117,7 @@ Done with ❤️ by  Tales Rocha 👋🏽 Contact me!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- REFERENCES -->
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: ./images/front-screen.png
 
 [contributors-shield]: https://img.shields.io/github/contributors/taleshrocha/move-it.svg?style=for-the-badge
 [contributors-url]: https://github.com/taleshrocha/move-it/graphs/contributors
